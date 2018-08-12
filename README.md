@@ -9,3 +9,5 @@
 ## 展示
 
 ![](https://github.com/ShangzhiH/NielsenOCR_Visualization/blob/master/CapturePic/Sans%20titre1.png)
+
+![](https://github.com/ShangzhiH/NielsenOCR_Visualization/blob/master/CapturePic/Sans%20titre2.png)
